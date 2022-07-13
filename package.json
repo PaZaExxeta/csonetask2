@@ -1,0 +1,8 @@
+{
+  "name": "cs-one-task-2",
+  "version": "1.0.0",
+  "main": "index.jsnpm i prompt-sync",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
